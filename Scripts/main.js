@@ -18,7 +18,7 @@ if(navClose){
 }
 
 
-/*=============== CHANGE BACKGROUND HEADER ===============*/
+/*=============== CHANGE BG HEADER ===============*/
 const bgHeader = () =>{
     const header = document.getElementById('header')
     // Add a class if the bottom offset is greater than 50 of the viewport
