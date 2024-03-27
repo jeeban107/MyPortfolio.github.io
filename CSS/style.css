@@ -172,7 +172,7 @@ body.dark-theme {
 }
 
 
-/* =======Reusuable Css======*/
+/* =======Utility Css======*/
 
 .container{
     max-width: 1120px;
@@ -427,6 +427,11 @@ body.dark-theme {
 .home__button{
     justify-self:center ;
 }
+
+
+
+
+
 /* ======= About ======= */
 
 .about__page{
@@ -555,11 +560,8 @@ margin-bottom: 1rem;
 
   
 
-.work__img{
-    
-    filter: grayscale(20%);
+.work__img{ 
     transition: filter .5s ,transform .5s;
-    /* image-resolution: 660px 336px; */
       
 }
 
@@ -591,6 +593,19 @@ margin-bottom: 1rem;
     padding-bottom: 4rem;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -789,6 +804,37 @@ margin-bottom: 1rem;
 .show-scroll{
     bottom: 3rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1084,7 +1130,7 @@ margin-bottom: 1rem;
         width: 40vw;
     }
 
-   /* .home{
+    /* .home{
     max-width: 1400px;
     margin-inline: auto;
     border-radius: 8px solid var(--first-color);
@@ -1092,7 +1138,7 @@ margin-bottom: 1rem;
 
    .home__rectangle{
     width:23vw ;
-   } */
+   }  */
 
 
 
